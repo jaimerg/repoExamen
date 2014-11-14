@@ -9,6 +9,7 @@ public class Examen {
 		System.out.println("Dime tu nombre");
 		String nombre = br.readLine();
 		System.out.println("Hola");
+		System.out.println("Hola2");
 	}
 
 }
