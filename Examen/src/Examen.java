@@ -8,7 +8,7 @@ public class Examen {
 	public static void main(String[] args) throws Exception{
 		System.out.println("Dime tu nombre");
 		String nombre = br.readLine();
-		
+		System.out.println("Hola");
 	}
 
 }
