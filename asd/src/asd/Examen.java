@@ -10,6 +10,8 @@ public class Examen {
 		String nombre = br.readLine();
 		System.out.println("Hola");
 		System.out.println("Hola2");
+		System.out.println("Hola2");
+		System.out.println("Hola2");
 	}
 
 }
